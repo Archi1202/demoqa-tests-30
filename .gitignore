@@ -1,3 +1,20 @@
+HELP.md
+build/
+!**/src/main/**
+!**/src/test/**
+
+
+###Intellij IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+##Gradle##
+
+.gradle
+
 # Compiled class file
 *.class
 
